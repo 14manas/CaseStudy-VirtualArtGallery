@@ -2847,11 +2847,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS 22\\VirtualArtGallery\\VirtualArtGallery.csproj",
+      "projectUniqueName": "D:\\VS 22\\VirtualArtgallry\\VirtualArtGallery\\VirtualArtGallery.csproj",
       "projectName": "VirtualArtGallery",
-      "projectPath": "D:\\VS 22\\VirtualArtGallery\\VirtualArtGallery.csproj",
+      "projectPath": "D:\\VS 22\\VirtualArtgallry\\VirtualArtGallery\\VirtualArtGallery.csproj",
       "packagesPath": "C:\\Users\\MANAS\\.nuget\\packages\\",
-      "outputPath": "D:\\VS 22\\VirtualArtGallery\\obj\\",
+      "outputPath": "D:\\VS 22\\VirtualArtgallry\\VirtualArtGallery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MANAS\\AppData\\Roaming\\NuGet\\NuGet.Config",

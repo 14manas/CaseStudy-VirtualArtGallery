@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BphQ5TkDmE8/YcsjJ81r9whMMyJ+YiQekNl0xI1WBAkhazbdsDUIqqA6HdnxnlyYhj33d2JvG5rDfXLMaemmpg==",
+  "dgSpecHash": "HrwsC+a/sz24rg0JSkOFC5Y0XlREc5Z0U4YKqTkihdKasgHa0ONxJ8SC1w7xf9BpyarDjxhEG1ErU/Z8L4fxdQ==",
   "success": true,
-  "projectFilePath": "D:\\VS 22\\VirtualArtGallery\\VirtualArtGallery.csproj",
+  "projectFilePath": "D:\\VS 22\\VirtualArtgallry\\VirtualArtGallery\\VirtualArtGallery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MANAS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MANAS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
